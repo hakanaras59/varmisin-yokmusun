@@ -1,0 +1,27 @@
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Form1.resources
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Properties.Resources.resources
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.GenerateResource.Cache
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.exe
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.pdb
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+C:\Users\Ogün\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.exe
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.pdb
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Form1.resources
+C:\Users\karizmatikfurkan\Desktop\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Properties.Resources.resources
+D:\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+D:\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.exe
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.pdb
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csprojResolveAssemblyReference.cache
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Form1.resources
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Properties.Resources.resources
+D:\Yeni klasör(1)\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.GenerateResource.Cache
+C:\Users\UNKNOWN\Downloads\Compressed\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+C:\Users\UNKNOWN\Downloads\Compressed\programlar\VarmısınYokmusun\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
